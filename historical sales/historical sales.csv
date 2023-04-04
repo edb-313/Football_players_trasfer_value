@@ -1,0 +1,88 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_period,fee_cleaned,league_name,year
+SL Benfica,Ángel Di María,22.0,Right Winger,Real Madrid,€33.00m,Summer,33000000.0,Liga Nos,2010
+SL Benfica,Ramires,23.0,Central Midfield,Chelsea,€22.00m,Summer,22000000.0,Liga Nos,2010
+SL Benfica,Rafik Halliche,23.0,Centre-Back,Fulham,€2.50m,Summer,2500000.0,Liga Nos,2010
+SL Benfica,Ariza Makukula,29.0,Centre-Forward,Manisaspor,€1.70m,Summer,1700000.0,Liga Nos,2010
+SL Benfica,David Luiz,23.0,Centre-Back,Chelsea,€25.00m,Winter,25000000.0,Liga Nos,2010
+SL Benfica,Patric,21.0,Right-Back,Atlético-MG,€1.00m,Winter,1000000.0,Liga Nos,2010
+SL Benfica,Fábio Coentrão,23.0,Left-Back,Real Madrid,€30.00m,Summer,30000000.0,Liga Nos,2011
+SL Benfica,Roberto,25.0,Goalkeeper,Real Zaragoza,€8.60m,Summer,8600000.0,Liga Nos,2011
+SL Benfica,Axel Witsel,23.0,Defensive Midfield,Zenit S-Pb,€40.00m,Summer,40000000.0,Liga Nos,2012
+SL Benfica,Javi García,25.0,Defensive Midfield,Man City,€20.20m,Summer,20200000.0,Liga Nos,2012
+SL Benfica,Ishmael Yartey,22.0,Left Winger,FC Sochaux,€2.00m,Summer,2000000.0,Liga Nos,2012
+SL Benfica,Émerson Conceição,26.0,Left-Back,Trabzonspor,€1.60m,Summer,1600000.0,Liga Nos,2012
+SL Benfica,Fellipe Bastos,22.0,Central Midfield,Vasco da Gama,€1.50m,Summer,1500000.0,Liga Nos,2012
+SL Benfica,Éder Luís,27.0,Right Winger,Vasco da Gama,€1.50m,Summer,1500000.0,Liga Nos,2012
+SL Benfica,Daniel Wass,23.0,Central Midfield,Évian,€1.20m,Summer,1200000.0,Liga Nos,2012
+SL Benfica,Bruno César,24.0,Central Midfield,Al-Ahli SFC,€5.00m,Winter,5000000.0,Liga Nos,2012
+SL Benfica,Roberto,27.0,Goalkeeper,Atlético Madrid,€6.00m,Summer,6000000.0,Liga Nos,2013
+SL Benfica,Lorenzo Melgarejo,23.0,Left Winger,Kuban Krasnodar,€5.00m,Summer,5000000.0,Liga Nos,2013
+SL Benfica,Nolito,26.0,Left Winger,Celta de Vigo,€4.00m,Summer,4000000.0,Liga Nos,2013
+SL Benfica,Rodrigo Mora,25.0,Centre-Forward,River Plate,€3.50m,Summer,3500000.0,Liga Nos,2013
+SL Benfica,Djaniny,22.0,Centre-Forward,Nacional,€1.20m,Summer,1200000.0,Liga Nos,2013
+SL Benfica,Nemanja Matić,25.0,Defensive Midfield,Chelsea,€25.00m,Winter,25000000.0,Liga Nos,2013
+SL Benfica,Lazar Markovic,20.0,Right Winger,Liverpool,€25.00m,Summer,25000000.0,Liga Nos,2014
+SL Benfica,Jan Oblak,21.0,Goalkeeper,Atlético Madrid,€16.00m,Summer,16000000.0,Liga Nos,2014
+SL Benfica,Ezequiel Garay,27.0,Centre-Back,Zenit S-Pb,€6.00m,Summer,6000000.0,Liga Nos,2014
+SL Benfica,Óscar Cardozo,31.0,Centre-Forward,Trabzonspor,€5.00m,Summer,5000000.0,Liga Nos,2014
+SL Benfica,Alan Kardec,25.0,Centre-Forward,São Paulo,€4.50m,Summer,4500000.0,Liga Nos,2014
+SL Benfica,Derlis González,20.0,Second Striker,FC Basel,€3.00m,Summer,3000000.0,Liga Nos,2014
+SL Benfica,Stefan Mitrović,24.0,Centre-Back,SC Freiburg,€1.50m,Summer,1500000.0,Liga Nos,2014
+SL Benfica,Djavan,26.0,Left-Back,SC Braga,€1.00m,Summer,1000000.0,Liga Nos,2014
+SL Benfica,Enzo Pérez,28.0,Defensive Midfield,Valencia,€25.00m,Winter,25000000.0,Liga Nos,2014
+SL Benfica,Bernardo Silva,20.0,Attacking Midfield,Monaco,€15.75m,Winter,15750000.0,Liga Nos,2014
+SL Benfica,Franco Jara,26.0,Centre-Forward,Olympiacos,€1.50m,Winter,1500000.0,Liga Nos,2014
+SL Benfica,Rodrigo,24.0,Second Striker,Valencia,€30.00m,Summer,30000000.0,Liga Nos,2015
+SL Benfica,André Gomes,21.0,Central Midfield,Valencia,€20.00m,Summer,20000000.0,Liga Nos,2015
+SL Benfica,Ivan Cavaleiro,21.0,Left Winger,Monaco,€15.00m,Summer,15000000.0,Liga Nos,2015
+SL Benfica,João Cancelo,21.0,Right-Back,Valencia,€15.00m,Summer,15000000.0,Liga Nos,2015
+SL Benfica,Lima,32.0,Centre-Forward,Al-Ahli (UAE),€7.00m,Summer,7000000.0,Liga Nos,2015
+SL Benfica,Sidnei,25.0,Centre-Back,Dep. La Coruña,€6.50m,Summer,6500000.0,Liga Nos,2015
+SL Benfica,Rogelio Funes Mori,24.0,Centre-Forward,Monterrey,€3.60m,Summer,3600000.0,Liga Nos,2015
+SL Benfica,Loris Benito,23.0,Left-Back,BSC Young Boys,€3.00m,Summer,3000000.0,Liga Nos,2015
+SL Benfica,Miralem Sulejmani,26.0,Left Midfield,BSC Young Boys,€3.00m,Summer,3000000.0,Liga Nos,2015
+SL Benfica,Renato Sanches,18.0,Central Midfield,Bayern Munich,€35.00m,Summer,35000000.0,Liga Nos,2016
+SL Benfica,Nicolás Gaitán,28.0,Attacking Midfield,Atlético Madrid,€25.00m,Summer,25000000.0,Liga Nos,2016
+SL Benfica,Nélson Oliveira,25.0,Centre-Forward,Norwich,€5.85m,Summer,5850000.0,Liga Nos,2016
+SL Benfica,Mehdi Carcela-González,27.0,Right Winger,Granada CF,€4.00m,Summer,4000000.0,Liga Nos,2016
+SL Benfica,Bebé,26.0,Left Winger,SD Eibar,€1.50m,Summer,1500000.0,Liga Nos,2016
+SL Benfica,Jorge Rojas,23.0,Right Winger,Cerro Porteño,€1.00m,Summer,1000000.0,Liga Nos,2016
+SL Benfica,Gonçalo Guedes,20.0,Left Winger,Paris SG,€30.00m,Winter,30000000.0,Liga Nos,2016
+SL Benfica,Hélder Costa,23.0,Right Winger,Wolves,€15.00m,Winter,15000000.0,Liga Nos,2016
+SL Benfica,Ederson,23.0,Goalkeeper,Man City,€40.00m,Summer,40000000.0,Liga Nos,2017
+SL Benfica,Nélson Semedo,23.0,Right-Back,Barcelona,€35.70m,Summer,35700000.0,Liga Nos,2017
+SL Benfica,Victor Lindelöf,22.0,Centre-Back,Man Utd,€35.00m,Summer,35000000.0,Liga Nos,2017
+SL Benfica,Konstantinos Mitroglou,29.0,Centre-Forward,Marseille,€15.00m,Summer,15000000.0,Liga Nos,2017
+SL Benfica,Guillermo Celis,24.0,Defensive Midfield,Vit. Guimarães,€1.75m,Summer,1750000.0,Liga Nos,2017
+SL Benfica,Hany Mukhtar,22.0,Attacking Midfield,Bröndby IF,€1.50m,Summer,1500000.0,Liga Nos,2017
+SL Benfica,João Carvalho,21.0,Attacking Midfield,Nottm Forest,€15.00m,Summer,15000000.0,Liga Nos,2018
+SL Benfica,Bryan Cristante,23.0,Defensive Midfield,Atalanta BC,€9.50m,Summer,9500000.0,Liga Nos,2018
+SL Benfica,André Horta,21.0,Central Midfield,LAFC,€5.70m,Summer,5700000.0,Liga Nos,2018
+SL Benfica,Talisca,24.0,Attacking Midfield,GZ Evergrande,€19.20m,Winter,19200000.0,Liga Nos,2018
+SL Benfica,Nicolás Castillo,25.0,Centre-Forward,América,€7.13m,Winter,7130000.0,Liga Nos,2018
+SL Benfica,João Félix,19.0,Second Striker,Atlético Madrid,€127.20m,Summer,127200000.0,Liga Nos,2019
+SL Benfica,Raúl Jiménez,28.0,Centre-Forward,Wolves,€38.00m,Summer,38000000.0,Liga Nos,2019
+SL Benfica,Luka Jović,21.0,Centre-Forward,E. Frankfurt,€22.34m,Summer,22340000.0,Liga Nos,2019
+SL Benfica,André Carrillo,28.0,Right Winger,Al-Hilal SFC,€9.50m,Summer,9500000.0,Liga Nos,2019
+SL Benfica,Eduardo Salvio,29.0,Right Winger,Boca Juniors,€7.00m,Summer,7000000.0,Liga Nos,2019
+SL Benfica,Pawel Dawidowicz,24.0,Centre-Back,Hellas Verona,€3.50m,Summer,3500000.0,Liga Nos,2019
+SL Benfica,Raúl de Tomás,25.0,Centre-Forward,Espanyol,€22.50m,Winter,22500000.0,Liga Nos,2019
+SL Benfica,Lisandro López,30.0,Centre-Back,Boca Juniors,€3.00m,Winter,3000000.0,Liga Nos,2019
+SL Benfica,Rúben Dias,23.0,Centre-Back,Man City,€68.00m,Summer,68000000.0,Liga Nos,2020
+SL Benfica,Cristian Lema,30.0,Centre-Back,Damac FC,€2.00m,Summer,2000000.0,Liga Nos,2020
+SL Benfica,Ivan Zlobin,23.0,Goalkeeper,Famalicão,€1.00m,Summer,1000000.0,Liga Nos,2020
+SL Benfica,Pedrinho,23.0,Right Winger,Shakhtar D.,€18.00m,Summer,18000000.0,Liga Nos,2021
+SL Benfica,Luca Waldschmidt,25.0,Second Striker,VfL Wolfsburg,€12.00m,Summer,12000000.0,Liga Nos,2021
+SL Benfica,Nuno Tavares,21.0,Left-Back,Arsenal,€8.00m,Summer,8000000.0,Liga Nos,2021
+SL Benfica,Franco Cervi,27.0,Left Winger,Celta de Vigo,€4.00m,Summer,4000000.0,Liga Nos,2021
+SL Benfica,Caio Lucas,27.0,Left Midfield,Sharjah FC,€2.00m,Summer,2000000.0,Liga Nos,2021
+SL Benfica,Filip Krovinovic,25.0,Attacking Midfield,Hajduk Split,€1.50m,Summer,1500000.0,Liga Nos,2021
+SL Benfica,Alfa Semedo,23.0,Defensive Midfield,Vit. Guimarães,€1.50m,Summer,1500000.0,Liga Nos,2021
+SL Benfica,Darwin Núñez,23.0,Centre-Forward,Liverpool,€75.00m,summer,75000000.0,Liga Nos,2022
+SL Benfica,Roman Yaremchuk,26.0,Centre-Forward,Club Brugge,€16.00m,summer,16000000.0,Liga Nos,2022
+SL Benfica,Éverton,26.0,Left Winger,Flamengo,€13.50m,summer,13500000.0,Liga Nos,2022
+SL Benfica,Jota,23.0,Left Winger,Celtic,€7.30m,summer,7300000.0,Liga Nos,2022
+SL Benfica,Gedson Fernandes,23.0,Central Midfield,Besiktas,€6.00m,summer,6000000.0,Liga Nos,2022
+SL Benfica,Carlos Vinícius,27.0,Centre-Forward,Fulham,€5.00m,summer,5000000.0,Liga Nos,2022
+SL Benfica,Pedro Pereira,24.0,Right-Back,Monza,€2.50m,summer,2500000.0,Liga Nos,2022
+SL Benfica,Nuno Santos,23.0,Attacking Midfield,Charlotte,€1.00m,summer,1000000.0,Liga Nos,2022
