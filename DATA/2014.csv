@@ -1,32 +1,34 @@
 ﻿Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
-Luisão,br BRA,DF,32,28,28,2512,27.9,1,0,1,1,0,0,3,0,0.04,0,0.04,0.04,0.04,Matches,60a93897
-Ezequiel Garay,ar ARG,DF,26,27,27,2423,26.9,6,0,6,6,0,0,3,0,0.22,0,0.22,0.22,0.22,Matches,ac3fb1be
-Enzo Pérez,ar ARG,MF,27,28,27,2359,26.2,4,4,8,3,1,1,7,0,0.15,0.15,0.31,0.11,0.27,Matches,6d27cfc2
-Lima,br BRA,FW,30,28,26,2343,26,14,5,19,11,3,3,1,0,0.54,0.19,0.73,0.42,0.61,Matches,deb26e4c
-Maxi Pereira,uy URU,DF,29,25,24,2164,24,0,3,3,0,0,0,8,1,0,0.12,0.12,0,0.12,Matches,6e592fa4
-Nicolás Gaitán,ar ARG,MF,25,26,24,2064,22.9,4,6,10,4,0,0,7,0,0.17,0.26,0.44,0.17,0.44,Matches,7ebfac0f
-Rodrigo,es ESP,FWMF,22,26,22,1786,19.8,11,6,17,11,0,1,2,0,0.55,0.3,0.86,0.55,0.86,Matches,1fb1c435
-Lazar Marković,rs SRB,FWMF,19,26,19,1659,18.4,5,5,10,5,0,0,2,0,0.27,0.27,0.54,0.27,0.54,Matches,723ba189
-Guilherme Siqueira,br BRA,DFMF,27,18,18,1415,15.7,1,1,2,1,0,0,6,1,0.06,0.06,0.13,0.06,0.13,Matches,3770a135
-Jan Oblak,si SVN,GK,20,16,15,1351,15,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,ee8508c0
-Ljubomir Fejsa,rs SRB,MF,24,16,15,1346,15,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,874d7a32
-Nemanja Matić,rs SRB,MF,24,14,14,1231,13.7,2,0,2,2,0,0,6,0,0.15,0,0.15,0.15,0.15,Matches,eb7822d7
-Artur Moraes,br BRA,GK,32,14,13,1169,13,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,25012505
-André Almeida,pt POR,DFMF,22,10,7,743,8.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,67b3d74b
-Sílvio,pt POR,DF,25,8,7,649,7.2,0,1,1,0,0,0,0,0,0,0.14,0.14,0,0.14,Matches,ec6e2549
-Óscar Cardozo,py PAR,FW,30,15,6,686,7.6,7,2,9,5,2,2,0,0,0.92,0.26,1.18,0.66,0.92,Matches,b1a5c0ed
-Bruno Cortez,br BRA,DF,26,6,6,495,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a3a1198a
-Eduardo Salvio,ar ARG,FWMF,23,12,5,480,5.3,0,1,1,0,0,0,0,0,0,0.19,0.19,0,0.19,Matches,5f424f35
-Filip Đuričić,rs SRB,FWMF,21,11,5,354,3.9,0,1,1,0,0,0,1,0,0,0.25,0.25,0,0.25,Matches,eccbe56a
-Rúben Amorim,pt POR,MF,28,17,4,466,5.2,0,2,2,0,0,0,3,0,0,0.39,0.39,0,0.39,Matches,a9dfa7ad
-Jardel,br BRA,DF,27,6,4,375,4.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,ce9e8024
-Ivan Cavaleiro,pt POR,FWMF,19,8,4,294,3.3,0,1,1,0,0,0,0,0,0,0.31,0.31,0,0.31,Matches,979b811d
-André Gomes,pt POR,MF,20,7,3,275,3.1,1,0,1,1,0,0,0,0,0.33,0,0.33,0.33,0.33,Matches,1961b2aa
-Miralem Sulejmani,rs SRB,FWMF,24,11,2,370,4.1,1,1,2,1,0,0,0,0,0.24,0.24,0.49,0.24,0.49,Matches,615c4d8f
-Paulo Lopes,pt POR,GK,35,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,abd0306c
-Rogelio Funes Mori,mx MEX,FW,22,2,1,120,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,bf9a2406
-Steven Vitória,ca CAN,DF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9bc450e6
-João Cancelo,pt POR,DFMF,19,1,1,64,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,bd6351cd
-Ola John,nl NED,FWMF,21,5,0,166,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,82b2a290
-Victor Lindelöf,se SWE,DF,19,1,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f5deef4c
-Bernardo Silva,pt POR,FWMF,18,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,3eb22ec9
+Maxi Pereira,uy URU,DF,30,32,32,2872,31.9,5,7,12,5,0,0,11,0,0.16,0.22,0.38,0.16,0.38,Matches,6e592fa4
+Lima,br BRA,FW,31,34,32,2789,31,19,6,25,16,3,4,0,0,0.61,0.19,0.81,0.52,0.71,Matches,deb26e4c
+Jardel,br BRA,DF,28,31,31,2790,31,4,0,4,4,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches,ce9e8024
+Luisão,br BRA,DF,33,30,30,2680,29.8,4,1,5,4,0,0,1,1,0.13,0.03,0.17,0.13,0.17,Matches,60a93897
+Eduardo Salvio,ar ARG,FWMF,24,29,28,2452,27.2,9,8,17,9,0,0,4,0,0.33,0.29,0.62,0.33,0.62,Matches,5f424f35
+Andreas Samaris,gr GRE,MF,25,28,27,2155,23.9,0,2,2,0,0,0,12,0,0,0.08,0.08,0,0.08,Matches,5af687a1
+Eliseu,pt POR,DFMF,30,26,26,2283,25.4,4,1,5,4,0,0,7,0,0.16,0.04,0.2,0.16,0.2,Matches,981869fc
+Nicolás Gaitán,ar ARG,MF,26,27,26,2136,23.7,4,12,16,4,0,0,6,0,0.17,0.51,0.67,0.17,0.67,Matches,7ebfac0f
+Jonas,br BRA,FW,30,27,25,2203,24.5,20,3,23,19,1,1,4,0,0.82,0.12,0.94,0.78,0.9,Matches,9bcd6455
+Júlio César,br BRA,GK,34,23,23,2060,22.9,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,f619413f
+Talisca,br BRA,FWMF,20,32,20,1874,20.8,9,1,10,9,0,0,7,1,0.43,0.05,0.48,0.43,0.48,Matches,5c4f4e43
+Pizzi,pt POR,FWMF,24,23,15,1280,14.2,2,7,9,2,0,0,1,0,0.14,0.49,0.63,0.14,0.63,Matches,96094cbc
+André Almeida,pt POR,DFMF,23,20,12,1213,13.5,0,3,3,0,0,0,7,0,0,0.22,0.22,0,0.22,Matches,67b3d74b
+Artur Moraes,br BRA,GK,33,12,11,1000,11.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,25012505
+Enzo Pérez,ar ARG,MF,28,11,11,913,10.1,1,2,3,0,1,1,5,0,0.1,0.2,0.3,0,0.2,Matches,6d27cfc2
+Ola John,nl NED,FWMF,22,25,9,1009,11.2,3,5,8,3,0,0,0,0,0.27,0.45,0.71,0.27,0.71,Matches,82b2a290
+Lisandro López,ar ARG,DF,24,7,6,454,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8320fe65
+Rúben Amorim,pt POR,MF,29,10,2,213,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,a9dfa7ad
+César,br BRA,DF,21,3,2,195,2.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,4dcde17a
+Miralem Sulejmani,rs SRB,FWMF,25,4,2,135,1.5,0,1,1,0,0,0,0,0,0,0.67,0.67,0,0.67,Matches,615c4d8f
+Derley,br BRA,FW,26,16,1,302,3.4,1,2,3,1,0,0,0,0,0.3,0.6,0.89,0.3,0.89,Matches,55353074
+Ljubomir Fejsa,rs SRB,MF,25,5,1,191,2.1,1,0,1,1,0,0,2,0,0.47,0,0.47,0.47,0.47,Matches,874d7a32
+Bryan Cristante,it ITA,DFMF,19,5,1,133,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,16657b95
+Franco Jara,ar ARG,FW,26,2,1,106,1.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,413cce14
+Loris Benito,ch SUI,DF,22,2,1,97,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f5b6fb78
+Gonçalo Guedes,pt POR,FWMF,17,5,0,40,0.4,0,1,1,0,0,0,1,0,0,2.25,2.25,0,2.25,Matches,e6bc67d7
+Sílvio,pt POR,DF,26,1,0,31,0.3,0,1,1,0,0,0,0,0,0,2.9,2.9,0,2.9,Matches,ec6e2549
+Bebé,cv CPV,FWMF,24,1,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,d8712bf9
+Hany Mukhtar,de GER,FWMF,19,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,87fe8526
+Jonathan Rodríguez,uy URU,FWMF,21,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,86ca9bca
+Paulo Lopes,pt POR,GK,36,0,0,,,,,,,,,,,,,,,,Matches,abd0306c
+Nélson Oliveira,pt POR,FW,22,0,0,,,,,,,,,,,,,,,,Matches,f716e4e4
+Bruno Varela,pt POR,GK,19,0,0,,,,,,,,,,,,,,,,Matches,2bea06e0
