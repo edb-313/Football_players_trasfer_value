@@ -1,0 +1,92 @@
+player_name,age,position,club_involved_name,transfer_period,fee_cleaned,year
+Ángel Di María,22.0,Right Winger,Real Madrid,Summer,33000000.0,2010
+Ramires,23.0,Central Midfield,Chelsea,Summer,22000000.0,2010
+Rafik Halliche,23.0,Centre-Back,Fulham,Summer,2500000.0,2010
+Ariza Makukula,29.0,Centre-Forward,Manisaspor,Summer,1700000.0,2010
+David Luiz,23.0,Centre-Back,Chelsea,Winter,25000000.0,2010
+Patric,21.0,Right-Back,Atlético-MG,Winter,1000000.0,2010
+Fábio Coentrão,23.0,Left-Back,Real Madrid,Summer,30000000.0,2011
+Roberto,25.0,Goalkeeper,Real Zaragoza,Summer,8600000.0,2011
+Axel Witsel,23.0,Defensive Midfield,Zenit S-Pb,Summer,40000000.0,2012
+Javi García,25.0,Defensive Midfield,Man City,Summer,20200000.0,2012
+Ishmael Yartey,22.0,Left Winger,FC Sochaux,Summer,2000000.0,2012
+Émerson Conceição,26.0,Left-Back,Trabzonspor,Summer,1600000.0,2012
+Fellipe Bastos,22.0,Central Midfield,Vasco da Gama,Summer,1500000.0,2012
+Éder Luís,27.0,Right Winger,Vasco da Gama,Summer,1500000.0,2012
+Daniel Wass,23.0,Central Midfield,Évian,Summer,1200000.0,2012
+Bruno César,24.0,Central Midfield,Al-Ahli SFC,Winter,5000000.0,2012
+Roberto,27.0,Goalkeeper,Atlético Madrid,Summer,6000000.0,2013
+Lorenzo Melgarejo,23.0,Left Winger,Kuban Krasnodar,Summer,5000000.0,2013
+Nolito,26.0,Left Winger,Celta de Vigo,Summer,4000000.0,2013
+Rodrigo Mora,25.0,Centre-Forward,River Plate,Summer,3500000.0,2013
+Djaniny,22.0,Centre-Forward,Nacional,Summer,1200000.0,2013
+Nemanja Matić,25.0,Defensive Midfield,Chelsea,Winter,25000000.0,2013
+Lazar Markovic,20.0,Right Winger,Liverpool,Summer,25000000.0,2014
+Jan Oblak,21.0,Goalkeeper,Atlético Madrid,Summer,16000000.0,2014
+Ezequiel Garay,27.0,Centre-Back,Zenit S-Pb,Summer,6000000.0,2014
+Óscar Cardozo,31.0,Centre-Forward,Trabzonspor,Summer,5000000.0,2014
+Alan Kardec,25.0,Centre-Forward,São Paulo,Summer,4500000.0,2014
+Derlis González,20.0,Second Striker,FC Basel,Summer,3000000.0,2014
+Stefan Mitrović,24.0,Centre-Back,SC Freiburg,Summer,1500000.0,2014
+Djavan,26.0,Left-Back,SC Braga,Summer,1000000.0,2014
+Enzo Pérez,28.0,Defensive Midfield,Valencia,Winter,25000000.0,2014
+Bernardo Silva,20.0,Attacking Midfield,Monaco,Winter,15750000.0,2014
+Franco Jara,26.0,Centre-Forward,Olympiacos,Winter,1500000.0,2014
+Rodrigo,24.0,Second Striker,Valencia,Summer,30000000.0,2015
+André Gomes,21.0,Central Midfield,Valencia,Summer,20000000.0,2015
+Ivan Cavaleiro,21.0,Left Winger,Monaco,Summer,15000000.0,2015
+João Cancelo,21.0,Right-Back,Valencia,Summer,15000000.0,2015
+Lima,32.0,Centre-Forward,Al-Ahli (UAE),Summer,7000000.0,2015
+Sidnei,25.0,Centre-Back,Dep. La Coruña,Summer,6500000.0,2015
+Rogelio Funes Mori,24.0,Centre-Forward,Monterrey,Summer,3600000.0,2015
+Loris Benito,23.0,Left-Back,BSC Young Boys,Summer,3000000.0,2015
+Miralem Sulejmani,26.0,Left Midfield,BSC Young Boys,Summer,3000000.0,2015
+Renato Sanches,18.0,Central Midfield,Bayern Munich,Summer,35000000.0,2016
+Nicolás Gaitán,28.0,Attacking Midfield,Atlético Madrid,Summer,25000000.0,2016
+Nélson Oliveira,25.0,Centre-Forward,Norwich,Summer,5850000.0,2016
+Mehdi Carcela-González,27.0,Right Winger,Granada CF,Summer,4000000.0,2016
+Bebé,26.0,Left Winger,SD Eibar,Summer,1500000.0,2016
+Jorge Rojas,23.0,Right Winger,Cerro Porteño,Summer,1000000.0,2016
+Gonçalo Guedes,20.0,Left Winger,Paris SG,Winter,30000000.0,2016
+Hélder Costa,23.0,Right Winger,Wolves,Winter,15000000.0,2016
+Ederson,23.0,Goalkeeper,Man City,Summer,40000000.0,2017
+Nélson Semedo,23.0,Right-Back,Barcelona,Summer,35700000.0,2017
+Victor Lindelöf,22.0,Centre-Back,Man Utd,Summer,35000000.0,2017
+Konstantinos Mitroglou,29.0,Centre-Forward,Marseille,Summer,15000000.0,2017
+Guillermo Celis,24.0,Defensive Midfield,Vit. Guimarães,Summer,1750000.0,2017
+Hany Mukhtar,22.0,Attacking Midfield,Bröndby IF,Summer,1500000.0,2017
+João Carvalho,21.0,Attacking Midfield,Nottm Forest,Summer,15000000.0,2018
+Bryan Cristante,23.0,Defensive Midfield,Atalanta BC,Summer,9500000.0,2018
+André Horta,21.0,Central Midfield,LAFC,Summer,5700000.0,2018
+Talisca,24.0,Attacking Midfield,GZ Evergrande,Winter,19200000.0,2018
+Nicolás Castillo,25.0,Centre-Forward,América,Winter,7130000.0,2018
+João Félix,19.0,Second Striker,Atlético Madrid,Summer,127200000.0,2019
+Raúl Jiménez,28.0,Centre-Forward,Wolves,Summer,38000000.0,2019
+Luka Jović,21.0,Centre-Forward,E. Frankfurt,Summer,22340000.0,2019
+André Carrillo,28.0,Right Winger,Al-Hilal SFC,Summer,9500000.0,2019
+Eduardo Salvio,29.0,Right Winger,Boca Juniors,Summer,7000000.0,2019
+Pawel Dawidowicz,24.0,Centre-Back,Hellas Verona,Summer,3500000.0,2019
+Raúl de Tomás,25.0,Centre-Forward,Espanyol,Winter,22500000.0,2019
+Lisandro López,30.0,Centre-Back,Boca Juniors,Winter,3000000.0,2019
+Rúben Dias,23.0,Centre-Back,Man City,Summer,68000000.0,2020
+Cristian Lema,30.0,Centre-Back,Damac FC,Summer,2000000.0,2020
+Ivan Zlobin,23.0,Goalkeeper,Famalicão,Summer,1000000.0,2020
+Pedrinho,23.0,Right Winger,Shakhtar D.,Summer,18000000.0,2021
+Luca Waldschmidt,25.0,Second Striker,VfL Wolfsburg,Summer,12000000.0,2021
+Nuno Tavares,21.0,Left-Back,Arsenal,Summer,8000000.0,2021
+Franco Cervi,27.0,Left Winger,Celta de Vigo,Summer,4000000.0,2021
+Caio Lucas,27.0,Left Midfield,Sharjah FC,Summer,2000000.0,2021
+Filip Krovinovic,25.0,Attacking Midfield,Hajduk Split,Summer,1500000.0,2021
+Alfa Semedo,23.0,Defensive Midfield,Vit. Guimarães,Summer,1500000.0,2021
+Darwin Núñez,23.0,Centre-Forward,Liverpool,Summer,75000000.0,2022
+Roman Yaremchuk,26.0,Centre-Forward,Club Brugge,Summer,16000000.0,2022
+Éverton,26.0,Left Winger,Flamengo,Summer,13500000.0,2022
+Jota,23.0,Left Winger,Celtic,Summer,7300000.0,2022
+Gedson Fernandes,23.0,Central Midfield,Besiktas,Summer,6000000.0,2022
+Carlos Vinícius,27.0,Centre-Forward,Fulham,Summer,5000000.0,2022
+Pedro Pereira,24.0,Right-Back,Monza,Summer,2500000.0,2022
+Nuno Santos,23.0,Attacking Midfield,Charlotte,Summer,1000000.0,2022
+Enzo Fernández,22.0,Central Midfield,Chelsea,Winter,121000000.0,2022
+Diogo Gonçalves,25.0,Right Winger,FC Copenhagen,Winter,2000000.0,2022
+Tomás Tavares,21.0,Right-Back,Spartak Moscow,Winter,2000000.0,2022
+Gil Dias,26.0,Right Winger,VfB Stuttgart,Winter,1000000.0,2022
