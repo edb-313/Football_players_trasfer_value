@@ -1,0 +1,70 @@
+"player_name","season","transfer_date","team_from","team_to","market_value","transfer_value","contract_expiry","days_remaining"
+"Jan Oblak","14/15",2014-07-16,"Benfica","Atlético Madrid",4e+06,1.6e+07,2015-07-30,379
+"Jan Oblak","12/13",2012-09-09,"Benfica","Rio Ave FC",1100000,NA,2015-07-30,1054
+"Jan Oblak","11/12",2011-09-09,"Benfica","Leiria",NA,NA,2016-06-30,1756
+"Jan Oblak","10/11",2011-01-04,"Benfica","Olhanense",NA,NA,2016-06-30,2004
+"Jan Oblak","09/10",2010-01-05,"Benfica","Beira-Mar",NA,NA,NA,NA
+"Artur Moraes","15/16",2015-07-11,"Benfica","Osmanlispor",NA,0,NA,NA
+"Bruno Varela","20/21",2020-08-19,"Benfica","Vit. Guimarães",2e+06,0,2022-06-30,680
+"Bruno Varela","19/20",2019-07-01,"Benfica","Ajax",3e+06,NA,2022-06-30,1095
+"Bruno Varela","18/19",2019-01-29,"Benfica","Ajax",3e+06,NA,2022-06-30,1248
+"Bruno Varela","16/17",2016-07-01,"Benfica","Vitória Setúbal",NA,0,2018-06-30,729
+"Paulo Lopes","18/19",2018-07-01,"Benfica","Retired",NA,NA,NA,NA
+"Paulo Lopes","02/03",2002-07-01,"Benfica","Salgueiros",NA,NA,NA,NA
+"Paulo Lopes","99/00",1999-07-01,"Benfica","Gil Vicente",NA,NA,NA,NA
+"Ezequiel Garay","14/15",2014-07-01,"Benfica","Zenit S-Pb",2e+07,6e+06,NA,NA
+"Luisão","18/19",2018-09-25,"Benfica","Retired",NA,NA,2019-06-30,278
+"Jardel","21/22",2021-07-01,"Benfica","Without Club",NA,NA,NA,NA
+"Steven Vitória","16/17",2016-08-17,"Benfica","Lechia Gdansk",NA,0,2017-06-30,317
+"Steven Vitória","14/15",2015-02-09,"Benfica","Philadelphia",2e+06,NA,2017-06-30,872
+"Stefan Mitrović","14/15",2014-07-16,"Benfica","SC Freiburg",1e+06,1500000,2018-06-30,1445
+"Stefan Mitrović","13/14",2014-01-21,"Benfica","Real Valladolid",1100000,NA,2018-06-30,1621
+"Victor Lindelöf","17/18",2017-07-01,"Benfica","Man Utd",2.2e+07,3.5e+07,2021-06-30,1460
+"Guilherme Siqueira","13/14",2014-06-30,"Benfica","Granada CF",8e+06,NA,2014-06-30,0
+"Bruno Cortez","13/14",2013-12-31,"Benfica","São Paulo",2e+06,NA,NA,NA
+"Maximiliano Pereira","15/16",2015-07-15,"Benfica","FC Porto",8e+06,0,NA,NA
+"Sílvio","15/16",2016-06-30,"Benfica","Atlético Madrid",2e+06,NA,2016-06-30,0
+"André Almeida","22/23",2023-01-31,"Benfica","Without Club",NA,NA,NA,NA
+"André Almeida","11/12",2011-07-04,"Benfica","Leiria",NA,NA,2023-06-30,4379
+"João Cancelo","15/16",2015-07-01,"Benfica","Valencia",5e+06,1.5e+07,2018-06-30,1095
+"João Cancelo","14/15",2014-08-20,"Benfica","Valencia",2e+06,NA,2018-06-30,1410
+"Nemanja Matić","13/14",2014-01-15,"Benfica","Chelsea",2.7e+07,2.5e+07,2018-06-30,1627
+"Enzo Pérez","14/15",2015-01-02,"Benfica","Valencia",2.3e+07,2.5e+07,2016-06-30,545
+"Enzo Pérez","11/12",2012-02-09,"Benfica","Estudiantes",3e+06,NA,2016-06-30,1603
+"Ljubomir Fejsa","20/21",2020-09-24,"Benfica","Al-Ahli SFC",2800000,NA,2021-06-30,279
+"Ljubomir Fejsa","19/20",2020-01-29,"Benfica","Alavés",3500000,NA,2021-06-30,518
+"André Gomes","15/16",2015-07-01,"Benfica","Valencia",2e+07,2e+07,2016-06-30,365
+"André Gomes","14/15",2014-07-17,"Benfica","Valencia",5e+06,NA,2016-06-30,714
+"Rúben Amorim","16/17",2017-04-04,"Benfica","Retired",NA,NA,2018-06-30,452
+"Rúben Amorim","15/16",2015-08-06,"Benfica","Al-Wakrah SC",4e+06,NA,NA,NA
+"Rúben Amorim","11/12",2012-01-01,"Benfica","SC Braga",5e+06,NA,2018-06-30,2372
+"Miralem Sulejmani","15/16",2015-07-01,"Benfica","BSC Young Boys",3e+06,3e+06,2018-06-30,1095
+"Nico Gaitán","16/17",2016-07-01,"Benfica","Atlético Madrid",3e+07,2.5e+07,2019-06-30,1094
+"Filip Djuricic","16/17",2017-01-30,"Benfica","Sampdoria",3e+06,0,2018-06-30,516
+"Filip Djuricic","16/17",2016-07-22,"Benfica","Sampdoria",4e+06,NA,2018-06-30,708
+"Filip Djuricic","15/16",2016-01-25,"Benfica","RSC Anderlecht",5e+06,NA,2018-06-30,887
+"Filip Djuricic","14/15",2015-02-02,"Benfica","Southampton",5e+06,NA,2018-06-30,1244
+"Filip Djuricic","14/15",2014-07-23,"Benfica","1.FSV Mainz 05",7e+06,NA,2018-06-30,1438
+"Bernardo Silva","14/15",2015-01-20,"Benfica","Monaco",3500000,15750000,2018-06-30,1257
+"Bernardo Silva","14/15",2014-08-07,"Benfica","Monaco",2500000,NA,2018-06-30,1423
+"Ola John","17/18",2017-07-01,"Benfica","Benfica B",2500000,NA,2019-06-30,729
+"Ola John","16/17",2017-01-13,"Benfica","Dep. La Coruña",5e+06,NA,2019-06-30,898
+"Ola John","16/17",2016-08-23,"Benfica","Wolves",5e+06,NA,2019-06-30,1041
+"Ola John","15/16",2015-09-01,"Benfica","Reading",7e+06,NA,2018-06-30,1033
+"Ola John","13/14",2014-01-17,"Benfica","Hamburger SV",1.2e+07,NA,2019-06-30,1990
+"Ivan Cavaleiro","15/16",2015-07-10,"Benfica","Monaco",3500000,1.5e+07,2018-06-30,1086
+"Ivan Cavaleiro","14/15",2014-08-07,"Benfica","Dep. La Coruña",4e+06,NA,2018-06-30,1423
+"Eduardo Salvio","19/20",2019-07-18,"Benfica","Boca Juniors",1e+07,7e+06,2022-06-30,1078
+"Eduardo Salvio","10/11",2011-06-30,"Benfica","Atlético Madrid",1e+07,NA,2011-06-30,0
+"Lazar Markovic","14/15",2014-07-15,"Benfica","Liverpool",1e+07,2.5e+07,2018-06-30,1446
+"Hélder Costa","16/17",2017-01-30,"Benfica","Wolves",3e+06,1.5e+07,2018-06-30,516
+"Hélder Costa","16/17",2016-07-29,"Benfica","Wolves",3e+06,NA,NA,NA
+"Hélder Costa","15/16",2015-07-10,"Benfica","Monaco",1500000,NA,NA,NA
+"Óscar Cardozo","14/15",2014-08-06,"Benfica","Trabzonspor",9e+06,5e+06,2016-06-30,694
+"Lima","15/16",2015-07-24,"Benfica","Al-Ahli (UAE)",8e+06,7e+06,2016-06-30,342
+"Rodrigo","15/16",2015-07-01,"Benfica","Valencia",1.8e+07,3e+07,2019-06-30,1460
+"Rodrigo","14/15",2014-07-23,"Benfica","Valencia",1.2e+07,NA,2015-06-30,342
+"Rodrigo","10/11",2010-08-31,"Benfica","Bolton",4500000,NA,2015-06-30,1764
+"Rogelio Funes Mori","15/16",2015-07-01,"Benfica","Monterrey",4250000,3600000,2018-06-30,1095
+"Rogelio Funes Mori","14/15",2014-07-08,"Benfica","Eskisehirspor",2e+06,NA,2018-06-30,1453
+"Rui Fonte","16/17",2016-08-31,"Benfica","SC Braga",2e+06,3400000,2018-06-30,668
