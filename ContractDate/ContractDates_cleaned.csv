@@ -1,8 +1,5 @@
 player_name,tf_season,days_remaining
 Roberto,2013,1436.0
-Roberto,2011,
-José Moreira,2011,
-Júlio César,2011,
 David Luiz,2010,1611.0
 David Luiz,2006,0.0
 Luisão,2018,278.0
@@ -10,7 +7,6 @@ Sidnei,2015,343.0
 Sidnei,2014,668.0
 Sidnei,2013,1068.0
 Sidnei,2011,1826.0
-Jardel,2021,
 Fábio Faria,2012,729.0
 Fábio Faria,2011,911.0
 Fábio Faria,2011,1064.0
@@ -19,32 +15,17 @@ Roderick Miranda,2013,2190.0
 Roderick Miranda,2012,2525.0
 Roderick Miranda,2011,2860.0
 Fábio Coentrão,2011,1456.0
-Fábio Coentrão,2008,
-Fábio Coentrão,2007,
 Lionel Carole,2012,1460.0
 Lionel Carole,2011,1765.0
-Maximiliano Pereira,2015,
-Luís Filipe,2011,
-Luís Filipe,2008,
-Javi García,2012,
-Airton,2015,
 Airton,2014,363.0
 Airton,2013,911.0
 Airton,2012,1217.0
 Airton,2011,1826.0
 Rúben Amorim,2016,452.0
-Rúben Amorim,2015,
 Rúben Amorim,2011,2372.0
-José Luis Fernández,2013,
 José Luis Fernández,2012,180.0
-José Luis Fernández,2012,
 José Luis Fernández,2011,1276.0
-José Luis Fernández,2011,
-César Peixoto,2011,
 Nico Gaitán,2016,1094.0
-Pablo Aimar,2013,
-Carlos Martins,2013,
-Carlos Martins,2011,
 Felipe Menezes,2013,364.0
 Felipe Menezes,2012,729.0
 Felipe Menezes,2011,1095.0
@@ -52,42 +33,26 @@ Eduardo Salvio,2019,1078.0
 Eduardo Salvio,2010,0.0
 Javier Saviola,2012,304.0
 Óscar Cardozo,2014,694.0
-Franco Jara,2014,
 Franco Jara,2013,1055.0
 Franco Jara,2012,1435.0
-Franco Jara,2011,
 Alan Kardec,2014,364.0
 Alan Kardec,2013,729.0
 Alan Kardec,2011,1460.0
-Nuno Gomes,2011,
-Nuno Gomes,2000,
-Weldon,2011,
-Artur Moraes,2015,
 Eduardo,2011,0.0
 Mika,2012,1460.0
 Bruno Varela,2020,680.0
 Bruno Varela,2019,1095.0
 Bruno Varela,2018,1248.0
 Bruno Varela,2016,729.0
-Ezequiel Garay,2014,
-Miguel Vítor,2013,
-Miguel Vítor,2010,
-Miguel Vítor,2007,
-Émerson,2012,
-Joan Capdevila,2012,
 Luís Martins,2012,729.0
-André Almeida,2022,
 André Almeida,2011,4379.0
-Axel Witsel,2012,
 Nemanja Matić,2013,1627.0
 Enzo Pérez,2014,545.0
 Enzo Pérez,2011,1603.0
-Bruno César,2012,
 David Simão,2013,729.0
 David Simão,2012,1064.0
 David Simão,2011,1276.0
 David Simão,2010,1429.0
-David Simão,2009,
 Nolito,2013,1095.0
 Nolito,2012,1248.0
 Yannick Djaló,2015,149.0
@@ -101,17 +66,9 @@ Rodrigo,2010,1764.0
 Nélson Oliveira,2016,669.0
 Nélson Oliveira,2015,1033.0
 Nélson Oliveira,2014,1276.0
-Nélson Oliveira,2013,
-Nélson Oliveira,2012,
-Nélson Oliveira,2010,
-Nélson Oliveira,2009,
 Rodrigo Mora,2013,1055.0
 Rodrigo Mora,2012,1415.0
 Rodrigo Mora,2011,1625.0
-Paulo Lopes,2018,
-Paulo Lopes,2002,
-Paulo Lopes,2099,
-Luísinho,2014,
 Luísinho,2013,1052.0
 João Cancelo,2015,1095.0
 João Cancelo,2014,1410.0
@@ -131,21 +88,17 @@ Lorenzo Melgarejo,2011,1825.0
 Jonathan Urretaviscaya,2013,729.0
 Jonathan Urretaviscaya,2011,1399.0
 Jonathan Urretaviscaya,2010,880.0
-Jonathan Urretaviscaya,2010,
-Jonathan Urretaviscaya,2009,
 Lima,2015,342.0
 Jan Oblak,2014,379.0
 Jan Oblak,2012,1054.0
 Jan Oblak,2011,1756.0
 Jan Oblak,2010,2004.0
-Jan Oblak,2009,
 Steven Vitória,2016,317.0
 Steven Vitória,2014,872.0
 Stefan Mitrović,2014,1445.0
 Stefan Mitrović,2013,1621.0
 Victor Lindelöf,2017,1460.0
 Guilherme Siqueira,2013,0.0
-Bruno Cortez,2013,
 Sílvio,2015,0.0
 Ljubomir Fejsa,2020,279.0
 Ljubomir Fejsa,2019,518.0
@@ -161,8 +114,6 @@ Ivan Cavaleiro,2015,1086.0
 Ivan Cavaleiro,2014,1423.0
 Lazar Markovic,2014,1446.0
 Hélder Costa,2016,516.0
-Hélder Costa,2016,
-Hélder Costa,2015,
 Rogelio Funes Mori,2015,1095.0
 Rogelio Funes Mori,2014,1453.0
 Rui Fonte,2016,668.0
@@ -178,7 +129,6 @@ César Martins,2017,710.0
 César Martins,2016,1080.0
 César Martins,2015,1444.0
 Loris Benito,2015,1460.0
-Eliseu,2018,
 Andreas Samaris,2021,668.0
 Bryan Cristante,2018,364.0
 Bryan Cristante,2016,884.0
@@ -224,7 +174,6 @@ Luka Jović,2017,1460.0
 Yuri Ribeiro,2019,1453.0
 Marcelo Hermes,2018,887.0
 Marcelo Hermes,2017,1269.0
-Pedro Pereira,2022,
 Pedro Pereira,2021,342.0
 Pedro Pereira,2020,647.0
 Pedro Pereira,2019,1058.0
@@ -241,7 +190,6 @@ André Horta,2018,1086.0
 André Horta,2017,1400.0
 Franco Cervi,2021,725.0
 Andrija Zivkovic,2020,295.0
-Mile Svilar,2022,
 Douglas,2017,0.0
 Martin Chrien,2017,1641.0
 Filip Krovinovic,2021,345.0
@@ -317,7 +265,6 @@ Paulo Bernardo,2022,1611.0
 Pedrinho,2021,1460.0
 Luca Waldschmidt,2021,1408.0
 Darwin Núñez,2022,1095.0
-Tomás Araújo,2022,
 Sandro Cruz,2022,708.0
 Valentino Lazaro,2021,0.0
 Soualiho Meïté,2022,1398.0
