@@ -1,65 +1,66 @@
-"player_name","season","transfer_date","team_from","team_to","market_value","transfer_value","contract_expiry","days_remaining"
-"Roberto","13/14",2013-07-25,"Benfica","Atlético Madrid",4e+06,6e+06,2017-06-30,1436
-"Roberto","11/12",2011-08-02,"Benfica","Real Zaragoza",5600000,8600000,NA,NA
-"José Moreira","11/12",2011-07-01,"Benfica","Swansea",1700000,NA,NA,NA
-"Júlio César","11/12",2011-08-01,"Benfica","Granada CF",1700000,NA,NA,NA
-"David Luiz","10/11",2011-01-31,"Benfica","Chelsea",1.4e+07,2.5e+07,2015-06-30,1611
-"David Luiz","06/07",2007-06-30,"Benfica","EC Vitória",1500000,NA,2007-06-30,0
-"Luisão","18/19",2018-09-25,"Benfica","Retired",NA,NA,2019-06-30,278
-"Sidnei","15/16",2015-07-23,"Benfica","Dep. La Coruña",3e+06,6500000,2016-06-30,343
-"Sidnei","14/15",2014-09-01,"Benfica","Dep. La Coruña",1500000,NA,2016-06-30,668
-"Sidnei","13/14",2013-07-28,"Benfica","Espanyol",2e+06,NA,2016-06-30,1068
-"Sidnei","11/12",2011-07-01,"Benfica","Besiktas",4e+06,NA,2016-06-30,1826
-"Jardel","21/22",2021-07-01,"Benfica","Without Club",NA,NA,NA,NA
-"Fábio Faria","12/13",2012-07-01,"Benfica","Benfica B",1e+06,NA,2014-06-30,729
-"Fábio Faria","11/12",2012-01-01,"Benfica","Rio Ave FC",1e+06,NA,2014-06-30,911
-"Fábio Faria","11/12",2011-08-01,"Benfica","Paços Ferreira",1e+06,NA,2014-06-30,1064
-"Fábio Faria","10/11",2011-01-01,"Benfica","Real Valladolid",1e+06,NA,2014-06-30,1276
-"Roderick Miranda","13/14",2013-07-01,"Benfica","Rio Ave FC",1e+06,0,2019-06-30,2190
-"Roderick Miranda","12/13",2012-07-31,"Benfica","Dep. La Coruña",NA,NA,2019-06-30,2525
-"Roderick Miranda","11/12",2011-08-31,"Benfica","Servette FC",NA,NA,2019-06-30,2860
-"Fábio Coentrão","11/12",2011-07-05,"Benfica","Real Madrid",2.4e+07,3e+07,2015-06-30,1456
-"Fábio Coentrão","08/09",2009-01-01,"Benfica","Rio Ave FC",1400000,NA,NA,NA
-"Fábio Coentrão","08/09",2008-07-22,"Benfica","Real Zaragoza",1e+06,NA,NA,NA
-"Fábio Coentrão","07/08",2008-01-01,"Benfica","Nacional",1e+06,NA,NA,NA
-"Lionel Carole","12/13",2012-07-01,"Benfica","Benfica B",NA,NA,2016-06-30,1460
-"Lionel Carole","11/12",2011-08-31,"Benfica","CS Sedan",NA,NA,2016-06-30,1765
-"Maximiliano Pereira","15/16",2015-07-15,"Benfica","FC Porto",8e+06,0,NA,NA
-"Luís Filipe","11/12",2011-07-01,"Benfica","Olhanense",NA,0,NA,NA
-"Luís Filipe","08/09",2008-07-01,"Benfica","Vit. Guimarães",1e+06,NA,NA,NA
-"Javi García","12/13",2012-08-31,"Benfica","Man City",1.5e+07,20200000,NA,NA
-"Airton","15/16",2015-07-01,"Benfica","Without Club",NA,NA,NA,NA
-"Airton","14/15",2014-07-02,"Benfica","Botafogo",1500000,NA,2015-06-30,363
-"Airton","13/14",2014-01-01,"Benfica","Botafogo",1500000,NA,2016-06-30,911
-"Airton","12/13",2013-03-01,"Benfica","Internacional",1500000,NA,2016-06-30,1217
-"Airton","11/12",2011-07-01,"Benfica","Flamengo",3500000,NA,2016-06-30,1826
-"Rúben Amorim","16/17",2017-04-04,"Benfica","Retired",NA,NA,2018-06-30,452
-"Rúben Amorim","15/16",2015-08-06,"Benfica","Al-Wakrah SC",4e+06,NA,NA,NA
-"Rúben Amorim","11/12",2012-01-01,"Benfica","SC Braga",5e+06,NA,2018-06-30,2372
-"José Luis Fernández","13/14",2013-07-01,"Benfica","Godoy Cruz",NA,0,NA,NA
-"José Luis Fernández","12/13",2013-01-01,"Benfica","Godoy Cruz",1300000,NA,2013-06-30,180
-"José Luis Fernández","12/13",2012-08-31,"Benfica","Olhanense",1300000,NA,NA,NA
-"José Luis Fernández","11/12",2012-01-01,"Benfica","Godoy Cruz",1300000,NA,2015-06-30,1276
-"José Luis Fernández","11/12",2011-07-01,"Benfica","Estudiantes",1300000,NA,NA,NA
-"César Peixoto","11/12",2012-01-01,"Benfica","Gil Vicente",1e+06,0,NA,NA
-"Nico Gaitán","16/17",2016-07-01,"Benfica","Atlético Madrid",3e+07,2.5e+07,2019-06-30,1094
-"Pablo Aimar","13/14",2013-08-07,"Benfica","Johor DT",1500000,0,NA,NA
-"Carlos Martins","13/14",2014-01-01,"Benfica","Benfica B",1500000,NA,NA,NA
-"Carlos Martins","11/12",2011-08-01,"Benfica","Granada CF",6200000,NA,NA,NA
-"Felipe Menezes","13/14",2013-07-01,"Benfica","Palmeiras",NA,NA,2014-06-30,364
-"Felipe Menezes","12/13",2012-07-01,"Benfica","Sport Recife",NA,NA,2014-06-30,729
-"Felipe Menezes","11/12",2011-07-01,"Benfica","Botafogo",NA,NA,2014-06-30,1095
-"Eduardo Salvio","19/20",2019-07-18,"Benfica","Boca Juniors",1e+07,7e+06,2022-06-30,1078
-"Eduardo Salvio","10/11",2011-06-30,"Benfica","Atlético Madrid",1e+07,NA,2011-06-30,0
-"Javier Saviola","12/13",2012-08-30,"Benfica","Málaga CF",6e+06,0,2013-06-30,304
-"Óscar Cardozo","14/15",2014-08-06,"Benfica","Trabzonspor",9e+06,5e+06,2016-06-30,694
-"Franco Jara","14/15",2015-01-24,"Benfica","Olympiacos",1250000,1500000,NA,NA
-"Franco Jara","13/14",2013-08-10,"Benfica","Estudiantes",1500000,NA,2016-06-30,1055
-"Franco Jara","12/13",2012-07-26,"Benfica","San Lorenzo",5e+06,NA,2016-06-30,1435
-"Franco Jara","11/12",2011-08-29,"Benfica","Granada CF",5500000,NA,NA,NA
-"Alan Kardec","14/15",2014-07-01,"Benfica","São Paulo",1500000,4500000,2015-06-30,364
-"Alan Kardec","13/14",2013-07-01,"Benfica","Palmeiras",1750000,NA,2015-06-30,729
-"Alan Kardec","11/12",2011-07-01,"Benfica","Santos",2e+06,NA,2015-06-30,1460
-"Nuno Gomes","11/12",2011-07-01,"Benfica","SC Braga",1500000,0,NA,NA
-"Nuno Gomes","00/01",2000-07-01,"Benfica","Fiorentina",NA,1.7e+07,NA,NA
-"Weldon","11/12",2011-07-01,"Benfica","CFR Cluj",1e+06,0,NA,NA
+"player_name","tf_season","team_to","contract_expiry","days_remaining"
+"Artur Moraes","2015","Osmanlispor",NA,NA
+"Eduardo","2011","Genoa",2012-06-30,0
+"Mika","2012","Benfica B",2016-06-30,1460
+"Bruno Varela","2020","Vit. Guimarães",2022-06-30,680
+"Bruno Varela","2019","Ajax",2022-06-30,1095
+"Bruno Varela","2018","Ajax",2022-06-30,1248
+"Bruno Varela","2016","Vitória Setúbal",2018-06-30,729
+"Ezequiel Garay","2014","Zenit S-Pb",NA,NA
+"Luisão","2018","Retired",2019-06-30,278
+"Jardel","2021","Without Club",NA,NA
+"Miguel Vítor","2013","PAOK Salonika",NA,NA
+"Miguel Vítor","2010","Leicester",NA,NA
+"Miguel Vítor","2007","Desportivo Aves",NA,NA
+"Fábio Faria","2012","Benfica B",2014-06-30,729
+"Fábio Faria","2011","Rio Ave FC",2014-06-30,911
+"Fábio Faria","2011","Paços Ferreira",2014-06-30,1064
+"Fábio Faria","2010","Real Valladolid",2014-06-30,1276
+"Émerson","2012","Trabzonspor",NA,NA
+"Joan Capdevila","2012","Espanyol",NA,NA
+"Luís Martins","2012","Benfica B",2014-06-30,729
+"Maximiliano Pereira","2015","FC Porto",NA,NA
+"André Almeida","2022","Without Club",NA,NA
+"André Almeida","2011","Leiria",2023-06-30,4379
+"Axel Witsel","2012","Zenit S-Pb",NA,NA
+"Javi García","2012","Man City",NA,NA
+"Nemanja Matić","2013","Chelsea",2018-06-30,1627
+"Enzo Pérez","2014","Valencia",2016-06-30,545
+"Enzo Pérez","2011","Estudiantes",2016-06-30,1603
+"Bruno César","2012","Al-Ahli SFC",NA,NA
+"Rúben Amorim","2016","Retired",2018-06-30,452
+"Rúben Amorim","2015","Al-Wakrah SC",NA,NA
+"Rúben Amorim","2011","SC Braga",2018-06-30,2372
+"David Simão","2013","Arouca",2015-06-30,729
+"David Simão","2012","Marítimo",2015-06-30,1064
+"David Simão","2011","Coimbra",2015-06-30,1276
+"David Simão","2010","Paços Ferreira",2014-06-30,1429
+"David Simão","2009","CD Fátima",NA,NA
+"Nico Gaitán","2016","Atlético Madrid",2019-06-30,1094
+"Pablo Aimar","2013","Johor DT",NA,NA
+"Nolito","2013","Celta de Vigo",2016-06-30,1095
+"Nolito","2012","Granada CF",2016-06-30,1248
+"Yannick Djaló","2015","Ratchaburi FC",2016-06-30,149
+"Yannick Djaló","2015","Mordovia",2016-06-30,334
+"Yannick Djaló","2014","Mordovia",2016-06-30,522
+"Yannick Djaló","2013","San Jose",2016-06-30,843
+"Yannick Djaló","2012","Toulouse",2016-06-30,1399
+"Javier Saviola","2012","Málaga CF",2013-06-30,304
+"Óscar Cardozo","2014","Trabzonspor",2016-06-30,694
+"Rodrigo","2015","Valencia",2019-06-30,1460
+"Rodrigo","2014","Valencia",2015-06-30,342
+"Rodrigo","2010","Bolton",2015-06-30,1764
+"Franco Jara","2014","Olympiacos",NA,NA
+"Franco Jara","2013","Estudiantes",2016-06-30,1055
+"Franco Jara","2012","San Lorenzo",2016-06-30,1435
+"Franco Jara","2011","Granada CF",NA,NA
+"Nélson Oliveira","2016","Norwich",2018-06-30,669
+"Nélson Oliveira","2015","Nottm Forest",2018-06-30,1033
+"Nélson Oliveira","2014","Swansea",2018-06-30,1276
+"Nélson Oliveira","2013","Rennes",NA,NA
+"Nélson Oliveira","2012","Dep. La Coruña",NA,NA
+"Nélson Oliveira","2010","Paços Ferreira",NA,NA
+"Nélson Oliveira","2009","Rio Ave FC",NA,NA
+"Rodrigo Mora","2013","River Plate",2016-06-30,1055
+"Rodrigo Mora","2012","River Plate",2016-06-30,1415
+"Rodrigo Mora","2011","Peñarol",2016-06-30,1625

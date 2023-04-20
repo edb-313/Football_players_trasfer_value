@@ -1,64 +1,59 @@
-"player_name","season","transfer_date","team_from","team_to","market_value","transfer_value","contract_expiry","days_remaining"
-"Bruno Varela","20/21",2020-08-19,"Benfica","Vit. Guimarães",2e+06,0,2022-06-30,680
-"Bruno Varela","19/20",2019-07-01,"Benfica","Ajax",3e+06,NA,2022-06-30,1095
-"Bruno Varela","18/19",2019-01-29,"Benfica","Ajax",3e+06,NA,2022-06-30,1248
-"Bruno Varela","16/17",2016-07-01,"Benfica","Vitória Setúbal",NA,0,2018-06-30,729
-"Mile Svilar","22/23",2022-07-01,"Benfica","AS Roma",2e+06,0,NA,NA
-"Ivan Zlobin","20/21",2020-08-22,"Benfica","Famalicão",1200000,1e+06,2024-06-30,1408
-"Rúben Dias","20/21",2020-09-29,"Benfica","Man City",3.5e+07,71600000,2024-06-30,1370
-"Ferro","22/23",2023-02-15,"Benfica","Hajduk Split",2500000,NA,2024-06-30,501
-"Ferro","22/23",2022-07-15,"Benfica","Vitesse",3500000,NA,2024-06-30,716
-"Ferro","21/22",2022-01-31,"Benfica","Hajduk Split",4e+06,NA,2024-06-30,881
-"Ferro","20/21",2021-01-31,"Benfica","Valencia",7e+06,NA,2024-06-30,1246
-"Germán Conti","22/23",2023-01-30,"Benfica","Loko Moscow",2e+06,0,2023-06-30,151
-"Germán Conti","21/22",2022-01-06,"Benfica","América-MG",2500000,NA,2023-06-30,540
-"Germán Conti","20/21",2021-03-19,"Benfica","EC Bahia",2500000,NA,2023-06-30,833
-"Germán Conti","19/20",2020-01-01,"Benfica","Atlas",2e+06,NA,2023-06-30,1276
-"Cristian Lema","20/21",2020-10-02,"Benfica","Damac FC",2400000,2e+06,2023-06-30,1001
-"Cristian Lema","19/20",2019-07-10,"Benfica","Newell's",2500000,NA,2023-06-30,1451
-"Cristian Lema","18/19",2019-02-07,"Benfica","Peñarol",2500000,NA,2023-06-30,1604
-"Jardel","21/22",2021-07-01,"Benfica","Without Club",NA,NA,NA,NA
-"Yuri Ribeiro","19/20",2019-07-08,"Benfica","Nottm Forest",1500000,NA,2023-06-30,1453
-"André Almeida","22/23",2023-01-31,"Benfica","Without Club",NA,NA,NA,NA
-"André Almeida","11/12",2011-07-04,"Benfica","Leiria",NA,NA,2023-06-30,4379
-"Sébastien Corchia","18/19",2019-06-30,"Benfica","Sevilla FC",2e+06,NA,2019-06-30,0
-"Tyronne Ebuehi","19/20",2019-09-01,"Benfica","Benfica B",1e+06,NA,2023-06-30,1398
-"Florentino","21/22",2021-08-31,"Benfica","Getafe",1e+07,NA,2024-06-30,1034
-"Florentino","20/21",2020-09-25,"Benfica","Monaco",1.8e+07,NA,2027-06-30,2469
-"Andreas Samaris","21/22",2021-08-31,"Benfica","Without Club",2e+06,NA,2023-06-30,668
-"Ljubomir Fejsa","20/21",2020-09-24,"Benfica","Al-Ahli SFC",2800000,NA,2021-06-30,279
-"Ljubomir Fejsa","19/20",2020-01-29,"Benfica","Alavés",3500000,NA,2021-06-30,518
-"Alfa Semedo","21/22",2021-07-29,"Benfica","Vit. Guimarães",1800000,1500000,2023-06-30,701
-"Alfa Semedo","20/21",2020-10-04,"Benfica","Reading",1600000,NA,2023-06-30,999
-"Alfa Semedo","19/20",2019-07-08,"Benfica","Nottm Forest",2e+06,NA,2023-06-30,1453
-"Alfa Semedo","18/19",2019-01-31,"Benfica","Espanyol",4e+06,NA,2023-06-30,1611
-"Gedson Fernandes","22/23",2022-07-01,"Benfica","Besiktas",6500000,6e+06,2025-06-30,1095
-"Gedson Fernandes","21/22",2022-02-03,"Benfica","C. Rizespor",8e+06,NA,2025-06-30,1243
-"Gedson Fernandes","20/21",2021-02-01,"Benfica","Galatasaray",13500000,NA,2023-06-30,879
-"Gedson Fernandes","19/20",2020-01-15,"Benfica","Tottenham",1.5e+07,NA,2023-06-30,1262
-"Gabriel Pires","22/23",2022-08-12,"Benfica","Botafogo",5e+06,NA,2024-06-30,688
-"Gabriel Pires","21/22",2021-09-28,"Benfica","Al-Gharafa SC",6e+06,NA,2024-06-30,1006
-"Adel Taarabt","22/23",2022-09-24,"Benfica","Al-Nasr SC",2500000,0,2023-06-30,279
-"Adel Taarabt","18/19",2018-07-01,"Benfica","Benfica B",1500000,NA,2020-06-30,730
-"Adel Taarabt","16/17",2017-01-10,"Benfica","Genoa",NA,NA,2020-06-30,1267
-"Pizzi","22/23",2022-07-27,"Benfica","Al-Wahda FC",4e+06,0,2023-06-30,338
-"Pizzi","21/22",2022-02-08,"Benfica","Basaksehir",8e+06,NA,2023-06-30,507
-"Pizzi","13/14",2013-07-28,"Benfica","Espanyol",6e+06,NA,2023-06-30,3624
-"Filip Krovinovic","21/22",2021-07-20,"Benfica","Hajduk Split",3e+06,1500000,2022-06-30,345
-"Filip Krovinovic","20/21",2021-01-22,"Benfica","Nottm Forest",6500000,NA,2022-06-30,524
-"Filip Krovinovic","20/21",2020-09-29,"Benfica","West Brom",3200000,NA,2022-06-30,639
-"Filip Krovinovic","19/20",2019-07-05,"Benfica","West Brom",5e+06,NA,2022-06-30,1091
-"Franco Cervi","21/22",2021-07-05,"Benfica","Celta de Vigo",5e+06,5e+06,2023-06-30,725
-"Jota","22/23",2022-07-01,"Benfica","Celtic",7500000,7500000,2024-06-30,730
-"Jota","21/22",2021-08-31,"Benfica","Celtic",3500000,NA,2024-06-30,1034
-"Jota","20/21",2020-10-05,"Benfica","Real Valladolid",8e+06,NA,2024-06-30,1364
-"Andrija Zivkovic","20/21",2020-09-08,"Benfica","PAOK Salonika",4e+06,0,2021-06-30,295
-"Eduardo Salvio","19/20",2019-07-18,"Benfica","Boca Juniors",1e+07,7e+06,2022-06-30,1078
-"Eduardo Salvio","10/11",2011-06-30,"Benfica","Atlético Madrid",1e+07,NA,2011-06-30,0
-"João Félix","19/20",2019-07-03,"Benfica","Atlético Madrid",7e+07,127200000,2023-06-30,1458
-"Jonas","19/20",2019-07-09,"Benfica","Retired",NA,NA,2020-06-30,357
-"Haris Seferovic","22/23",2023-01-31,"Benfica","Celta de Vigo",6e+06,NA,2024-06-30,516
-"Haris Seferovic","22/23",2022-07-20,"Benfica","Galatasaray",8e+06,NA,2024-06-30,711
-"Nicolás Castillo","18/19",2019-01-31,"Benfica","América",6e+06,7130000,2023-06-30,1611
-"Facundo Ferreyra","20/21",2021-02-01,"Benfica","Celta de Vigo",2e+06,0,2022-06-30,514
-"Facundo Ferreyra","18/19",2019-01-31,"Benfica","Espanyol",6e+06,NA,2022-06-30,1246
+"player_name","tf_season","team_to","contract_expiry","days_remaining"
+"Mile Svilar","2022","AS Roma",NA,NA
+"Ivan Zlobin","2020","Famalicão",2024-06-30,1408
+"Rúben Dias","2020","Man City",2024-06-30,1370
+"Ferro","2022","Hajduk Split",2024-06-30,501
+"Ferro","2022","Vitesse",2024-06-30,716
+"Ferro","2021","Hajduk Split",2024-06-30,881
+"Ferro","2020","Valencia",2024-06-30,1246
+"Germán Conti","2022","Loko Moscow",2023-06-30,151
+"Germán Conti","2021","América-MG",2023-06-30,540
+"Germán Conti","2020","EC Bahia",2023-06-30,833
+"Germán Conti","2019","Atlas",2023-06-30,1276
+"Jardel","2021","Without Club",NA,NA
+"Nuno Tavares","2021","Arsenal",2024-06-30,1086
+"Tomás Tavares","2022","Spartak Moscow",2024-06-30,523
+"Tomás Tavares","2021","FC Basel",2024-06-30,1034
+"Tomás Tavares","2020","Farense",2024-06-30,1259
+"Tomás Tavares","2020","Alavés",2024-06-30,1366
+"André Almeida","2022","Without Club",NA,NA
+"André Almeida","2011","Leiria",2023-06-30,4379
+"Tyronne Ebuehi","2019","Benfica B",2023-06-30,1398
+"Julian Weigl","2022","Bor. M'gladbach",2024-06-30,668
+"Florentino","2021","Getafe",2024-06-30,1034
+"Florentino","2020","Monaco",2027-06-30,2469
+"Andreas Samaris","2021","Without Club",2023-06-30,668
+"Ljubomir Fejsa","2020","Al-Ahli SFC",2021-06-30,279
+"Ljubomir Fejsa","2019","Alavés",2021-06-30,518
+"Gedson Fernandes","2022","Besiktas",2025-06-30,1095
+"Gedson Fernandes","2021","C. Rizespor",2025-06-30,1243
+"Gedson Fernandes","2020","Galatasaray",2023-06-30,879
+"Gedson Fernandes","2019","Tottenham",2023-06-30,1262
+"Gabriel Pires","2022","Botafogo",2024-06-30,688
+"Gabriel Pires","2021","Al-Gharafa SC",2024-06-30,1006
+"Adel Taarabt","2022","Al-Nasr SC",2023-06-30,279
+"Adel Taarabt","2018","Benfica B",2020-06-30,730
+"Adel Taarabt","2016","Genoa",2020-06-30,1267
+"Tiago Dantas","2022","PAOK Salonika",2024-06-30,730
+"Tiago Dantas","2021","Tondela",2024-06-30,1089
+"Tiago Dantas","2020","Bayern Munich",2024-06-30,1364
+"Caio Lucas","2021","Sharjah FC",2023-06-30,724
+"Caio Lucas","2019","Sharjah FC",2023-06-30,1254
+"Pizzi","2022","Al-Wahda FC",2023-06-30,338
+"Pizzi","2021","Basaksehir",2023-06-30,507
+"Pizzi","2013","Espanyol",2023-06-30,3624
+"Chiquinho","2021","Giresunspor",2024-06-30,874
+"Chiquinho","2021","SC Braga",2024-06-30,1034
+"Chiquinho","2018","Moreirense",2023-06-30,1802
+"Jota","2022","Celtic",2024-06-30,730
+"Jota","2021","Celtic",2024-06-30,1034
+"Jota","2020","Real Valladolid",2024-06-30,1364
+"Franco Cervi","2021","Celta de Vigo",2023-06-30,725
+"Andrija Zivkovic","2020","PAOK Salonika",2021-06-30,295
+"Raúl de Tomás","2019","Espanyol",2024-06-30,1634
+"Carlos Vinícius","2022","Fulham",2024-06-30,668
+"Carlos Vinícius","2021","PSV Eindhoven",2024-06-30,1034
+"Carlos Vinícius","2020","Tottenham",2024-06-30,1367
+"Haris Seferovic","2022","Celta de Vigo",2024-06-30,516
+"Haris Seferovic","2022","Galatasaray",2024-06-30,711
+"Dyego Sousa","2020","SZ FC",2020-12-31,88
